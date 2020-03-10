@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Projet Formation FOR500
 ---
 
 # FOR500
