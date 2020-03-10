@@ -1,3 +1,8 @@
+---
+layout: post
+title: You're up and running!
+---
+
 # FOR500
 
 J'ai pour projet de réaliser la formation FOR500 afin de compléter l'ensemble de mes nombreuses lacunes dans ce domaine, et pour pouvoir les exploiter ensuite par passion et dans ma vie professionel
